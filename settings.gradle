@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Base Empty Template'
+rootProject.name='First UI'
